@@ -13,6 +13,3 @@ Then run
 ## Backend
 
 ``` python3 web.py ```
-# 1A2B-PRO
-# 1A2B-PRO
-# 1A2B-PRO
